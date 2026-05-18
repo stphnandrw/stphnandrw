@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full-Stack Developer passionate about building end-to-end applications that bridge the gap between intuitive UI design and robust API architecture. From AR-integrated marketplaces to complex management systems, I focus on clean code and scalable solutions.<br><br>- 🔭 I’m currently working on **E n' G Bakery Integrated Management System**<br>- 🌱 I’m currently refining my skills in **Augmented Reality (AR) integration** and **Real-time Order Orchestration**<br>- ⚡ Fun fact: I have a background in **Dental Visualization Systems** – I love turning complex data into accessible graphics!
+I am a Full-Stack Developer passionate about building end-to-end applications that bridge the gap between intuitive UI design and robust API architecture. From AR-integrated marketplaces to complex management systems, I focus on clean code and scalable solutions.<br><br>- 
 
 
 ## 🌐 Socials:
